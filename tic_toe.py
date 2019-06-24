@@ -95,26 +95,3 @@ for chance in range(1,11):
 
 
 
-
-
-
-
-
-#test xD
-# def player_x():
-#     print("player X Turn")
-#     positon=int(input("Choose a position from 1-9: "))
-#     return positon
-
-
-
-
-# structure()
-# print("player X Turn")
-# positon=int(input("Choose a position from 1-9: "))
-# board[positon]="x"
-# structure()
-# print("player O Turn")
-# positon=int(input("Choose a position from 1-9: "))
-# board[positon]="O"
-# structure()
