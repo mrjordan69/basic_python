@@ -95,34 +95,3 @@ while game_over=="y" or game_over=="Y":
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# lst=[]
-# num=0
-# num=input("enter number: ")
-# for i in num:
-#     lst.append(int(i))
-# print(lst)
-# a=5
-# b=6
-# def add():
-#     global a
-#     a=7
-#     global b
-#     b=7
-# print(a,b)
